@@ -13,7 +13,7 @@
         <table class="table table-striped">
           <thead>
           <tr>
-            <th scope="col">#</th>
+            <th scope="col">Date</th>
             <th scope="col">Recovered</th>
             <th scope="col">Deaths</th>
             <th scope="col">Confirmed</th>
