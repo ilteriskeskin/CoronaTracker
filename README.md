@@ -4,4 +4,4 @@
 
 Demo: [https://coronacount.ml/](coronacount.ml)
 
-![alt text](https://github.com/ilteriskeskin/CoronaTracker/tree/master/CoronaTracker/src/assets/corona_ss.png "Demo Screenshot")
+![Demo Screenshot](https://github.com/ilteriskeskin/CoronaTracker/tree/master/CoronaTracker/src/assets/corona_ss.png)
