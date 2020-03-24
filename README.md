@@ -4,4 +4,6 @@
 
 Demo: [https://coronacount.ml/](coronacount.ml)
 
-![Demo Screenshot](https://github.com/ilteriskeskin/CoronaTracker/tree/master/CoronaTracker/src/assets/corona_ss.png)
+<img src="/src/assets/corona_ss.png"
+     alt="Demo Screenshot"
+     style="float: left; margin-right: 10px;" />
